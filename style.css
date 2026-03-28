@@ -1,0 +1,112 @@
+
+h3 {
+   font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+p {
+    font-size: 20px;
+    line-height: 20px;
+}
+
+
+body{
+    background: black;
+    width: 5000px;
+    height: 20px;
+
+}
+
+#container {
+    display: flex;
+    margin: 10px;
+    padding: 2px;
+    gap: 30px;
+    background-color: rgb(42, 165, 63);
+}
+
+.sobre {
+    background-color: rgb(252, 244, 137);
+    margin: 10px;
+    width: 400px;
+    height: 250px;
+    border-radius: 5px;
+}
+
+.cadastro {
+    background-color: rgb(252, 244, 137) ;
+    margin: 10px;
+    width: 400px;
+    height: 250px;
+    border-radius: 5px;
+}
+
+.pagamentos {
+    background-color:  rgb(252, 244, 137);
+    margin: 10px;
+    width: 400px;
+    height: 250px;
+    border-radius: 5px;
+}
+
+button{
+    background-color: yellow;
+    border-color: rgb(250, 125, 42);
+    color: black;
+    width: 80px;
+    height: 30px;
+}
+
+img {
+    margin: 0px;
+    padding: 0px;
+}
+
+.rodape {
+    color: white;
+    margin: 40px;
+}
+
+.escrita {
+    font-size: 15px;
+
+}
+
+.cadastrar {
+    background-color:  rgb(252, 244, 137);
+    width: 300px;
+    height: 200px;
+    padding-left: 10px;
+    padding-top: 10px ;
+    margin: 30px;
+    border-radius: 10px;
+    
+}
+
+.h1-2 {
+    color: white;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    margin: 30px;
+}
+
+.h1-3 {
+    color: white;
+}
+
+.tabela {
+    width: 1000px;
+    height: 100px;
+    background-color:  rgb(252, 244, 137);
+}
+
+td {
+    font-weight: 5px;
+    color: red;
+    font-size: 20px;
+}
+
+
+h {
+    
+    font-weight: 3000px;
+    font-size: 20px;
+}
